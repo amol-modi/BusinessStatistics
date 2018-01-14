@@ -1,2 +1,2 @@
 # BusinessStatistics
-A repository of academic material familarized in IDS 570: Statistics for Management by Prof. Zack Kertcher in Fall 2016
+A repository of academic material familarized with in IDS 570: Statistics for Management class by Prof. Zack Kertcher in Fall 2016
