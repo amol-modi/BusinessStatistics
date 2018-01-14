@@ -1,2 +1,2 @@
 # BusinessStatistics
-Collection of R files consisting of advanced statistical concepts such as uni variate &amp;bi-variate analysis, parametric &amp; non-parametric testing examples, etc 
+A repository of academic material familarized in IDS 570: Statistics for Management by Prof. Zack Kertcher in Fall 2016
