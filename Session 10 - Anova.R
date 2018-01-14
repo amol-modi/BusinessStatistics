@@ -1,7 +1,7 @@
 #=======================================#
 # Statistics for Management, Session 10 #
 #=======================================#
-setwd("C:\\Users\\Zack Kertcher\\Desktop\\Statistics for Management\\Session 10")
+setwd("C:\\Users\\Desktop\\Statistics for Management\\Session 10")
 
 # Hypothesis testing skewed data 
 #==================================
